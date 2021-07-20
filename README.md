@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paulakozanecka91
 - 👀 I’m interested in movies, reading and obviously IT
-- 🌱 I’m currently searcing Java and .Script experts 
+- 🌱 I’m currently searching Java and .Script experts 
 - 💞️ I’m looking to collaborate on sourcing technical profiles 
 - 📫 Best to reach me via LinkedIn 
 
