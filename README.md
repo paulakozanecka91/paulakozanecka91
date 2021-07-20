@@ -2,7 +2,7 @@
 - 👀 I’m interested in movies, reading and obviously IT
 - 🌱 I’m currently searching Java and .Script experts 
 - 💞️ I’m looking to collaborate on sourcing technical profiles 
-- 📫 Best to reach me via LinkedIn 
+- 📫 Best to reach me via LinkedIn or paula.kozanecka@continuum.be
 
 <!---
 paulakozanecka91/paulakozanecka91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
